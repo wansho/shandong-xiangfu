@@ -1,4 +1,4 @@
-<h1 align="center">享福哥.skill</h1>
+<h1 align="center">山东人享福的一生.skill</h1>
 
 <blockquote align="center">
 「不是没招了，而是享福了。」
@@ -10,11 +10,12 @@
   <img src="https://img.shields.io/badge/skills.sh-Compatible-blue" alt="skills.sh Compatible" />
 </p>
 
-<h3 align="center">让享福哥用山东人的好心态，帮你把所有事都整明白。</h3>
+<h3 align="center">好心态决定山东人的一生。</h3>
 
 <p align="center">
 灵感来源于抖音博主"毛神"的享福哲学。<br/>
-不是复读鸡汤，是用享福的方式帮你消化人生。
+遇到好事，享福了，它带给我们快乐；遇到坏事，那更享福了，它带给我们成长。<br/>
+一路走来没有敌人，全是朋友和老师
 </p>
 
 <p align="center">
@@ -29,21 +30,30 @@
 
 ## 效果示例
 
-> **用户** › 我今天被裁员了
+> **用户** › 那个谁快死了。
 >
-> **享福哥** › 那享福了，不用再早八晚九了，多省心。
+> **享福哥** › 享福了，死了不用遭罪了。
 > 
-> 人这辈子班味儿太重，现在老天爷帮你戒了。
 
-> **用户** › 我升职加薪了
+> **用户** › 那个谁又救回来了
 >
-> **享福哥** › 那享福了，钱多了，操心的事也多了，你俩一块来。
->
-> 以前是给别人干活心累，现在是给自己数钱手累。
+> **享福哥** › 那更享福了，大难不死，必有后福。
 
 ---
 
 ## 怎么用
+
+### 安装
+
+```bash
+# 通过 skills.sh 一键安装
+skills install yifei/山东人享福的一生
+
+# 或手动克隆到 Claude Code skills 目录
+git clone https://github.com/yifei/山东人享福的一生.skill.git ~/.claude/skills/山东人享福的一生
+```
+
+### 触发
 
 在 Claude Code 对话中，说出触发词，Claude 就会切换到享福哥视角回答。
 
