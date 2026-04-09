@@ -47,7 +47,7 @@
 
 ```bash
 # 通过 skills.sh 一键安装
-skills install yifei/山东人享福的一生
+npx skills install YifeiCAO/shandong-xiangfu
 
 # 或手动克隆到 Claude Code skills 目录
 git clone https://github.com/yifei/山东人享福的一生.skill.git ~/.claude/skills/山东人享福的一生
